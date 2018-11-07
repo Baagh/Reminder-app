@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ReminderApp</string>
+    <string name="app_text">Time Left</string>
+    <string name="mdefault">0</string>
+    <string name="result">Not Done Yet</string>
+    <string name="time">Time :</string>
+    <string name="done">Done !!!</string>
+
+
+</resources>
